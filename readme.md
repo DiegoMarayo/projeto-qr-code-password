@@ -60,7 +60,7 @@ Escolha a ferramenta:
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/DiegoMarayo/projeto-qr-code.git
+git clone https://github.com/DiegoMarayo/projeto-qr-code-password.git
 ```
 
 ```bash

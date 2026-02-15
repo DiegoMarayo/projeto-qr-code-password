@@ -64,7 +64,15 @@ git clone https://github.com/DiegoMarayo/projeto-qr-code-password.git
 ```
 
 ```bash
-cd SEU-REPOSITORIO
+cd projeto-qr-code-password
+```
+
+```bash
+npm install
+```
+
+```bash
+npm start
 ```
 
 ---
